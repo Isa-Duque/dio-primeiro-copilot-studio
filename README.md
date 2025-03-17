@@ -1,3 +1,9 @@
+# Projeto Chatbot - Biblioteca 
+
+Com base nas aulas, estou desenvolvendo um chatbot para os alunos de uma escola estadual da minha cidade, na qual eu leciono. Inventariei os livros em uma planilha excel e quero desenvolver o chat para que os alunos, mesmo as crianças que não conhecem a ferramenta excel, possa procurar livros. 
+
+https://copilotstudio.microsoft.com/environments/Default-50762edc-f950-4f48-b439-ec342282600c/bots/104e8933-2703-f011-bae3-0022482f6e69/overview
+
 # Formação de Microsoft Copilot Studio
 
 <h1>
